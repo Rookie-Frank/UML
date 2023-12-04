@@ -56,7 +56,7 @@ Used to visualize when an interaction partner executes some behavior
 
 
 
-##Message
+## Message
 
 **Synchronous message**
 
