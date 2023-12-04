@@ -1,6 +1,6 @@
 # UML Sequence Diagram
 
-##Introduction
+## Introduction
 
 **What is Sequence Diagram -- by ChatGPT**
 
